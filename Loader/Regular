@@ -1,3 +1,8 @@
+if string.find(tostring(identifyexecutor()), "Solara") then
+    setclipboard("discord.gg/getlunara")
+    game:GetService("Players").LocalPlayer:Kick("Script does not support Solara, please use Lunara Auto-Rob instead (discord.gg/getlunara). Invite has been copied to your clipboard")
+end
+
 --[[
     This script has been licensed using Luarmor
       Luarmor v3.8b, Lua whitelisting system
