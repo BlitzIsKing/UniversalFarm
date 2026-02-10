@@ -14,6 +14,6 @@ return {
     ["Museum"]          = true,
     ["Oil Rig"]         = true,
     ["Passenger Train"] = true,
-    ["Power Plant"]     = false,
-    ["Tomb"]            = false,
+    ["Power Plant"]     = true,
+    ["Tomb"]            = true,
 }
